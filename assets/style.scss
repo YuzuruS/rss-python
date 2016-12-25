@@ -12,6 +12,10 @@
     .logo {
         width: 200px;
     }
+    .responsive-unit{
+        max-width: 320px;
+        max-height: 100px;
+    }
 }
 
 h3 {
@@ -81,7 +85,7 @@ li {
 }
 
 .responsive-unit{
-    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
     margin-bottom: 10px;
-    max-width: 300px;
 }
