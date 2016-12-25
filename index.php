@@ -9,6 +9,7 @@
         <link rel="stylesheet" href="./assets/reset.css">
         <link rel="stylesheet" href="./assets/style.css">
         <link rel="stylesheet" href="./assets/font-awesome/css/font-awesome.min.css">
+        <meta name="google-site-verification" content="RsqSERupB2LgxlyHDmdlENq32qJjlDcUblplPVkVnWk" />
         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <script>
           (adsbygoogle = window.adsbygoogle || []).push({
@@ -18,6 +19,7 @@
         </script>
     </head>
     <body>
+        <?php include_once("analyticstracking.php") ?>
         <div class="header">
             <h1 class="logo-wrapper">
                 <img src="./assets/logo.png" alt="2chまとめのまとめるのは間違っているだろうか" class="logo">
