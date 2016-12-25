@@ -41,6 +41,9 @@ li {
   margin-bottom: 10px;
   text-align: center; }
 
+.footer {
+  text-align: center; }
+
 .logo-wrapper {
   margin: 0;
   padding: 0;
@@ -60,6 +63,7 @@ li {
 
 .responsive-unit {
   text-align: center;
-  max-width: 336px; }
+  margin-bottom: 10px;
+  max-width: 300px; }
 
 /*# sourceMappingURL=style.css.map */

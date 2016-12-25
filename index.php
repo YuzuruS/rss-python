@@ -53,6 +53,7 @@
                 (adsbygoogle = window.adsbygoogle || []).push({});
                 </script>
             </div>
+            <p><?php echo date('Y'); ?> 2chmtm.net. All Rights Reserved.</p>
         </div>
     </body>
 </html>

@@ -25,6 +25,7 @@ for url in RSS_URL:
     html += '</a>'
     html += '</h3>'
     html += '<ul>'
+    cnt = 0
     for entry in dic.entries:
         title = entry.title
         link  = entry.link
@@ -39,6 +40,9 @@ for url in RSS_URL:
         html += '</a>'
         html += '</p>'
         html += '</li>'
+        cnt += 1
+        if cnt == 7:
+            break
     html += '</ul>'
     html += '</div>'
 
