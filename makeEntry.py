@@ -2,11 +2,15 @@ import feedparser
 import time
 
 RSS_URL = [
-    "http://blog.livedoor.jp/dqnplus/index.rdf",
-    "http://news4vip.livedoor.biz/index.rdf",
-    "http://kanasoku.info/index.rdf",
-    "http://blog.livedoor.jp/news23vip/index.rdf",
-    "http://bipblog.com/index.rdf"
+    "http://blog.livedoor.jp/nwknews/index.rdf",
+    "http://blog.livedoor.jp/itsoku/index.rdf",
+    "http://lifehack2ch.livedoor.biz/index.rdf",
+    "http://workingnews.blog117.fc2.com/?xml",
+    "http://burusoku-vip.com/index.rdf",
+    "http://kabumatome.doorblog.jp/index.rdf",
+    "http://shikaku2ch.doorblog.jp/index.rdf",
+    "http://okanehadaiji.com/index.rdf",
+    "http://tokkaban.com/?feed=tokka",
 ]
 
 html = ''
