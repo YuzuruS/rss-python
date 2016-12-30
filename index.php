@@ -29,9 +29,9 @@
             <!-- i-mobile for PC client script -->
   <script type="text/javascript">
     imobile_pid = "16994"; 
-    imobile_asid = "1307943"; 
-    imobile_width = 728; 
-    imobile_height = 90;
+    imobile_asid = "1307945"; 
+    imobile_width = 336; 
+    imobile_height = 280;
   </script>
   <script type="text/javascript" src="http://spdeliver.i-mobile.co.jp/script/ads.js?20101001"></script>
   
@@ -44,16 +44,16 @@
         </div>
         <div class="footer">
             <div class="responsive-unit">
-            <!-- i-mobile for PC client script -->
+<!-- i-mobile for PC client script -->
   <script type="text/javascript">
     imobile_pid = "16994"; 
-    imobile_asid = "1307943"; 
-    imobile_width = 728; 
-    imobile_height = 90;
+    imobile_asid = "1307945"; 
+    imobile_width = 336; 
+    imobile_height = 280;
   </script>
   <script type="text/javascript" src="http://spdeliver.i-mobile.co.jp/script/ads.js?20101001"></script>
-  
-            </div>
+              
+</div>
             <p><?php echo date('Y'); ?> 2chmtm.net. All Rights Reserved.</p>
         </div>
     </body>
