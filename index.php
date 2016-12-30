@@ -10,13 +10,15 @@
         <link rel="stylesheet" href="./assets/style.css">
         <link rel="stylesheet" href="./assets/font-awesome/css/font-awesome.min.css">
         <meta name="google-site-verification" content="RsqSERupB2LgxlyHDmdlENq32qJjlDcUblplPVkVnWk" />
-        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <script>
-          (adsbygoogle = window.adsbygoogle || []).push({
-            google_ad_client: "ca-pub-1457273080131079",
-            enable_page_level_ads: true
-          });
-        </script>
+<!-- i-mobile for SmartPhone client script -->
+  <script type="text/javascript">
+    imobile_tag_ver = "0.3"; 
+    imobile_pid = "16994"; 
+    imobile_asid = "1307944"; 
+    imobile_type = "overlay";
+  </script>
+  <script type="text/javascript" src="http://spad.i-mobile.co.jp/script/adssp.js?20110215"></script>
+  >
     </head>
     <body>
         <?php include_once("analyticstracking.php") ?>
@@ -25,16 +27,15 @@
                 <img src="./assets/logo.png" alt="2chまとめのまとめるのは間違っているだろうか" class="logo">
             </h1>
             <div class="responsive-unit">
-                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                <!-- レスポンシブ -->
-                <ins class="adsbygoogle responsive-unit"
-                     style="display:block"
-                     data-ad-client="ca-pub-1457273080131079"
-                     data-ad-slot="9602320149"
-                     data-ad-format="auto"></ins>
-                <script>
-                (adsbygoogle = window.adsbygoogle || []).push({});
-                </script>
+            <!-- i-mobile for PC client script -->
+  <script type="text/javascript">
+    imobile_pid = "16994"; 
+    imobile_asid = "1307943"; 
+    imobile_width = 728; 
+    imobile_height = 90;
+  </script>
+  <script type="text/javascript" src="http://spdeliver.i-mobile.co.jp/script/ads.js?20101001"></script>
+  
             </div>
         </div>
         <div class="page-cover">
@@ -44,16 +45,15 @@
         </div>
         <div class="footer">
             <div class="responsive-unit">
-                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                <!-- レスポンシブ -->
-                <ins class="adsbygoogle responsive-unit"
-                     style="display:block"
-                     data-ad-client="ca-pub-1457273080131079"
-                     data-ad-slot="9602320149"
-                     data-ad-format="auto"></ins>
-                <script>
-                (adsbygoogle = window.adsbygoogle || []).push({});
-                </script>
+            <!-- i-mobile for PC client script -->
+  <script type="text/javascript">
+    imobile_pid = "16994"; 
+    imobile_asid = "1307943"; 
+    imobile_width = 728; 
+    imobile_height = 90;
+  </script>
+  <script type="text/javascript" src="http://spdeliver.i-mobile.co.jp/script/ads.js?20101001"></script>
+  
             </div>
             <p><?php echo date('Y'); ?> 2chmtm.net. All Rights Reserved.</p>
         </div>
