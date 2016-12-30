@@ -18,7 +18,6 @@
     imobile_type = "overlay";
   </script>
   <script type="text/javascript" src="http://spad.i-mobile.co.jp/script/adssp.js?20110215"></script>
-  >
     </head>
     <body>
         <?php include_once("analyticstracking.php") ?>
