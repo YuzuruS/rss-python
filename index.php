@@ -25,17 +25,6 @@
             <h1 class="logo-wrapper">
                 <img src="./assets/logo.png" alt="2chまとめのまとめるのは間違っているだろうか" class="logo">
             </h1>
-            <div class="responsive-unit">
-            <!-- i-mobile for PC client script -->
-  <script type="text/javascript">
-    imobile_pid = "16994"; 
-    imobile_asid = "1307945"; 
-    imobile_width = 336; 
-    imobile_height = 280;
-  </script>
-  <script type="text/javascript" src="http://spdeliver.i-mobile.co.jp/script/ads.js?20101001"></script>
-  
-            </div>
         </div>
         <div class="page-cover">
             <div class="main-column">
@@ -43,17 +32,6 @@
             </div>
         </div>
         <div class="footer">
-            <div class="responsive-unit">
-<!-- i-mobile for PC client script -->
-  <script type="text/javascript">
-    imobile_pid = "16994"; 
-    imobile_asid = "1307945"; 
-    imobile_width = 336; 
-    imobile_height = 280;
-  </script>
-  <script type="text/javascript" src="http://spdeliver.i-mobile.co.jp/script/ads.js?20101001"></script>
-              
-</div>
             <p><?php echo date('Y'); ?> 2chmtm.net. All Rights Reserved.</p>
         </div>
     </body>
