@@ -1,5 +1,6 @@
 import feedparser
 import time
+import os
 
 RSS_URL = [
     "http://blog.livedoor.jp/nwknews/index.rdf",
@@ -45,7 +46,6 @@ for url in RSS_URL:
             break
     html += '</ul>'
     html += '</div>'
-
-f = open('entry.php', 'w')
+f = open(os.path.dirname(os.path.abspath(__file__)) + '/entry.php', 'w')
 f.write(html)
 f.close()
